@@ -1,5 +1,5 @@
 [submodule "Test1"] 
-  path = ./Test1 
+  path = Test1 
   url = https://github.com/YaroslavLisovets/Task1-09.2024.git
 [submodule "Test2"]
 	path = Test2
